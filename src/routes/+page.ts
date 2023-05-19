@@ -1,7 +1,7 @@
 import type { PageLoad } from './$types';
 
-const desktopIcons = ['Microsoft Edge', 'Mars Software Solutions'];
-const openedApps = ['Microsoft Edge'];
+const desktopIcons = ['Windows 11', 'Mars Software Solutions'];
+const openedApps = [];
 
 export const load = (async () => {
 	return {
